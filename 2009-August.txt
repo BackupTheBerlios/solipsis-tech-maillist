@@ -1,0 +1,160 @@
+From gabriel.rossetti at arimaz.com  Wed Aug 12 18:01:45 2009
+From: gabriel.rossetti at arimaz.com (Gabriel Rossetti)
+Date: Wed, 12 Aug 2009 18:01:45 +0200
+Subject: [solipsis] dead links
+Message-ID: <4A82E769.5000008@arimaz.com>
+
+Hello,
+
+Your website has a bunch of dead links, i am interested in your solution 
+of the Twisted + wxPython 
+(http://netofpeers.com/WxPython_And_Twisted_Example.html), could you 
+please fix the link or send me the page? Thank you,
+Gabriel
+
+
+From solipsis at pitrou.net  Wed Aug 12 21:19:37 2009
+From: solipsis at pitrou.net (Antoine Pitrou)
+Date: Wed, 12 Aug 2009 21:19:37 +0200
+Subject: [solipsis] dead links
+In-Reply-To: <4A82E769.5000008@arimaz.com>
+References: <4A82E769.5000008@arimaz.com>
+Message-ID: <1250104777.5431.1.camel@localhost>
+
+
+Hello Gabriel,
+
+> Your website has a bunch of dead links, i am interested in your solution 
+> of the Twisted + wxPython 
+> (http://netofpeers.com/WxPython_And_Twisted_Example.html), could you 
+> please fix the link or send me the page? Thank you,
+
+Well the project has been dead for years, and the aforementioned example
+is probably obsolete anyway... I suggest your post on the twisted-python
+mailing-list asking people for their (up-to-date :-)) solutions.
+
+Regards
+
+Antoine.
+
+
+
+
+From solipsis at pitrou.net  Wed Aug 12 21:30:33 2009
+From: solipsis at pitrou.net (Antoine Pitrou)
+Date: Wed, 12 Aug 2009 21:30:33 +0200
+Subject: [solipsis] dead links
+In-Reply-To: <1250104777.5431.1.camel@localhost>
+References: <4A82E769.5000008@arimaz.com> <1250104777.5431.1.camel@localhost>
+Message-ID: <1250105433.5431.2.camel@localhost>
+
+Le mercredi 12 ao?t 2009 ? 21:19 +0200, Antoine Pitrou a ?crit :
+> Well the project has been dead for years, and the aforementioned example
+> is probably obsolete anyway... I suggest your post on the twisted-python
+
+"you", not "your". Sorry.
+
+> mailing-list asking people for their (up-to-date :-)) solutions.
+
+Antoine.
+
+
+
+
+From syhu at yahoo.com  Wed Aug 12 23:30:46 2009
+From: syhu at yahoo.com (Shun-Yun Hu)
+Date: Wed, 12 Aug 2009 14:30:46 -0700 (PDT)
+Subject: [solipsis] dead links
+In-Reply-To: <1250104777.5431.1.camel@localhost>
+References: <4A82E769.5000008@arimaz.com> <1250104777.5431.1.camel@localhost>
+Message-ID: <47985.91183.qm@web52306.mail.re2.yahoo.com>
+
+
+There's been a renewed effort of Solipsis (http://www.solipsis.org/) also from France Telecom's R&D branch Orange Lab. You might also want to check out with them on updates of the project.
+
+Cheers,
+
+Shun-Yun
+
+
+
+
+________________________________
+From: Antoine Pitrou <solipsis at pitrou.net>
+To: solipsis-tech at lists.berlios.de
+Sent: Thursday, August 13, 2009 4:19:37 AM
+Subject: Re: [solipsis] dead links
+
+
+Hello Gabriel,
+
+> Your website has a bunch of dead links, i am interested in your solution 
+> of the Twisted + wxPython 
+> (http://netofpeers.com/WxPython_And_Twisted_Example.html), could you 
+> please fix the link or send me the page? Thank you,
+
+Well the project has been dead for years, and the aforementioned example
+is probably obsolete anyway... I suggest your post on the twisted-python
+mailing-list asking people for their (up-to-date :-)) solutions.
+
+Regards
+
+Antoine.
+
+
+_______________________________________________
+Solipsis - http://solipsis.netofpeers.net/
+Change subscription options, unsubscribe:
+https://lists.berlios.de/mailman/listinfo/solipsis-tech
+
+
+
+      
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/solipsis-tech/attachments/20090812/1abb0c47/attachment.html>
+
+From gabriel.rossetti at arimaz.com  Thu Aug 13 08:25:44 2009
+From: gabriel.rossetti at arimaz.com (Gabriel Rossetti)
+Date: Thu, 13 Aug 2009 08:25:44 +0200
+Subject: [solipsis] dead links
+In-Reply-To: <1250104777.5431.1.camel@localhost>
+References: <4A82E769.5000008@arimaz.com> <1250104777.5431.1.camel@localhost>
+Message-ID: <4A83B1E8.3090608@arimaz.com>
+
+Hello Antoine,
+
+thanks for your reply, actually, I was referred to that link by someone 
+in the Twiste3d mailing list, it seams to be the best way to do it if 
+you want it to work on all platforms.
+
+Regards,
+Gabriel
+
+
+Antoine Pitrou wrote:
+> Hello Gabriel,
+>
+>   
+>> Your website has a bunch of dead links, i am interested in your solution 
+>> of the Twisted + wxPython 
+>> (http://netofpeers.com/WxPython_And_Twisted_Example.html), could you 
+>> please fix the link or send me the page? Thank you,
+>>     
+>
+> Well the project has been dead for years, and the aforementioned example
+> is probably obsolete anyway... I suggest your post on the twisted-python
+> mailing-list asking people for their (up-to-date :-)) solutions.
+>
+> Regards
+>
+> Antoine.
+>
+>
+> _______________________________________________
+> Solipsis - http://solipsis.netofpeers.net/
+> Change subscription options, unsubscribe:
+> https://lists.berlios.de/mailman/listinfo/solipsis-tech
+>   
+
+
